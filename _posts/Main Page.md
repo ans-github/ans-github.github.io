@@ -7,9 +7,8 @@ I will be posting the projects I have been working on below providing links to e
 
 ![_config.yml]({{ site.baseurl }}/images/Avatar.jpg)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
 
-# [Hyperlink text here](enter link here)
+# Headline 2
+Second post will be made here [Hyperlink text here](enter link here)
 # ![_config.yml]({{ site.baseurl }}/images/Avatar.png) 
-
 inserting image.
