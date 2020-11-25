@@ -12,7 +12,7 @@ permalink: /about/
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Feel free to add me on linkedin, and view my work on my github or this website via the [My Projects](https://ans-github.github.io/) page.
 
 ### Contact me
 
