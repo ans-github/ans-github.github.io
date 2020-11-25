@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Data Science Process
-permalink: /my_career/
+permalink: /my_career
 ---
 
 **Who am I?**
