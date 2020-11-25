@@ -9,6 +9,7 @@ I will be posting the projects I have been working on below providing links to e
 
 
 # Headline 2
+
 Second post will be made here [Hyperlink text here](enter link here)
 # ![_config.yml]({{ site.baseurl }}/images/Avatar.png) 
 inserting image.
