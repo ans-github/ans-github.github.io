@@ -3,13 +3,18 @@ layout: post
 title: Welcome to my Github Portfolio !
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+I will be posting here about projects I have worked on or working on with date, repository attached below.
+
+## BMI Calculator (01/09/2020 - 08/09/2020)##
+
+This was my first developing project that provided me a huge insight into developing using the Python language.
+You can visit the repository by [clicking here](https://github.com/ans-github/Brew_App).
+https://github.com/ans-github/BMI-Calculator-Test
+## Cafe Group Project (01/10/2020 - 08/09/2020)##
+Private Project (Group)
+## Brew App (01/09/2020 - 08/09/2020)##
+
+This was my first developing project that provided me a huge insight into developing using the Python language.
+You can visit the repository by [clicking here](https://github.com/ans-github/Brew_App).
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
-
-# [Hyperlink text here](enter link here)
-# ![_config.yml]({{ site.baseurl }}/images/config.png) 
-
-inserting image.
