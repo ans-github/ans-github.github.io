@@ -1,4 +1,1 @@
-type: CNAME
-host: www.anas.alfakhuri.com
-answer: ans-github.github.io
-TTL: 300
+www.anas.alfakhuri.com
