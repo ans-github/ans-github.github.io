@@ -12,7 +12,7 @@ I am currently working on this project, feel free to view the repository by [cli
 Private Project (Group)
 
 This is a private group project which is why it is not viewable however I felt I should list this as I have learnt about AWS (amazon web services) the features included and agile scrum methodology to complete the project.
-## Brew App (01/09/2020 - 08/09/2020)
+## Brew App (01/09/2020 - 01/10/2020)
 
 This was my first developing project that provided me a huge insight into developing using the Python language.
 You can visit the repository by [clicking here](https://github.com/ans-github/Brew_App).
