@@ -23,6 +23,7 @@ I am currently working on this project, feel free to view the repository by [cli
 Private Project (Group) - Completed.
 
 What have I learnt from this project?
+
  -Agile Scrum Methodology
 
  -ETL (Extract, Transform, Load) Process
