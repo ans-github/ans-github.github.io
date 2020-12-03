@@ -20,14 +20,14 @@ I am currently working on this project, feel free to view the repository by [cli
 
 ## Cafe Group Project (01/10/2020 - 23/11/2020)
 ----
-####Private Project (Group) - Completed.
+Private Project (Group) - Completed.
 
 What have I learnt from this project?
-*Agile Scrum Methodology
-*ETL (Extract, Transform, Load) Process
-*AWS (Amazon Web Services) features (Cloudwatch, S3 Bucket, Lambda Function, Data Pipeline)
-*Soft Skills (Teamwork, Perserverance, Communication)
-*Technical Skills (SQL, Python)
+ -Agile Scrum Methodology
+ -ETL (Extract, Transform, Load) Process
+ -AWS (Amazon Web Services) features (Cloudwatch, S3 Bucket, Lambda Function, Data Pipeline)
+ -Soft Skills (Teamwork, Perserverance, Communication)
+ -Technical Skills (SQL, Python)
 
 This is a private group project which is why it is not viewable however I felt I should list this because of the course I had taken with GenerationUK.
 
