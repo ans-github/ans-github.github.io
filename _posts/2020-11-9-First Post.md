@@ -24,10 +24,16 @@ Private Project (Group) - Completed.
 
 What have I learnt from this project?
  -Agile Scrum Methodology
+
  -ETL (Extract, Transform, Load) Process
+
  -AWS (Amazon Web Services) features (Cloudwatch, S3 Bucket, Lambda Function, Data Pipeline)
+
  -Soft Skills (Teamwork, Perserverance, Communication)
+
  -Technical Skills (SQL, Python)
+
+ -I have been exposed to new softwares such as snowflake, docker, postman, and VSCode.
 
 This is a private group project which is why it is not viewable however I felt I should list this because of the course I had taken with GenerationUK.
 
