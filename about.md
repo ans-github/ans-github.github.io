@@ -12,6 +12,3 @@ I am a friendly, proactive, honest and ambitious graduate who seeks a bright fut
 ### More Information
 ----
 Feel free to add me on linkedin via the footer of my website, and view my work on my github or this website via the [My Projects](https://ans-github.github.io/) page.
-
->testing
->>blockquote

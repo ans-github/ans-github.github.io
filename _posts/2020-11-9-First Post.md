@@ -3,7 +3,7 @@ layout: post
 title: Welcome to my Github Portfolio !
 ---
 
-I will be posting here about projects I have worked on or working on with date, repository attached below.
+Welcome to my github portfolio where I will be posting projects that I am either working on or have completed in the past. Feel free to view them by clicking on the read more button.
 
 ## Units Converter (02/12/2020 - On-Going)
 ----

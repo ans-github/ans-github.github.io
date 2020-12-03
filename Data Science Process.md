@@ -6,7 +6,6 @@ permalink: /my_career
 
 ### My Career Progress
 ----
-![an image alt text]({{ site.baseurl }}/images/Avatar.jpg "an image title")
 
 ![an image alt text]({{ site.baseurl }}/images/generationicon.png "an image title")GenerationUK - Data Engineering Programme:
 
