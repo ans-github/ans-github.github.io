@@ -11,7 +11,7 @@ I am currently working on this project, feel free to view the repository by [cli
 
 ## Calculator (02/12/2020 - On-Going)
 ----
-I am currently working on this project, feel free to view the repository by [clicking here]().
+I am currently working on this project, feel free to view the repository by [clicking here](https://github.com/ans-github/Calculator).
 
 ## BMI Calculator (01/09/2020 - On-Going)
 ----
